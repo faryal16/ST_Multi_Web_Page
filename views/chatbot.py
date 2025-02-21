@@ -23,7 +23,7 @@ def response_generator():
         time.sleep(0.05)
 
 
-st.title("🤖 Chatbot")
+st.title("💬 Chatbot")
 
 # Initialize chat history
 if "messages" not in st.session_state:
